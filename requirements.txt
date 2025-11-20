@@ -1,0 +1,9 @@
+pandas
+polars
+plotly
+numpy
+matplotlib
+seaborn
+jupyter
+scikit-learn
+nbstripout

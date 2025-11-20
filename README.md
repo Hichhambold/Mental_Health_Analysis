@@ -1,9 +1,9 @@
-# Mental Health Analysis
+# Data Science Project
 
-Ziel ist, die Auswirkung des digitalen Verhaltens auf die mentale Gesundheit zu untersuchen.
-
+Ziel ist es, die Auswirkung des digitalen Verhaltens auf die mentale Gesundheit zu untersuchen.
 
 ## Start
+Nachdem ihr eine .venv bei euch erfolgreich erstellt habt, könnt ihr einfach alle benötigten Python Pakete über den folgenden Befehl installieren:
 ```bash
 pip install -r requirements.txt
 ```
